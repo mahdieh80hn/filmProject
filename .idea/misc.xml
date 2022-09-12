@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/drawable/gradientbackground.xml" value="0.3525" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/drawable/search_recycler_view_bg.xml" value="0.353" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_add_film_page.xml" value="0.2595108695652174" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_edit_profile.xml" value="0.33" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_explore_page.xml" value="0.2595108695652174" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_login_page.xml" value="0.33" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_login_page2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_sign_in.xml" value="0.29981884057971014" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_signup.xml" value="0.2947916666666667" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/activity_user_profile.xml" value="0.33" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/film_item.xml" value="0.18" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/fragment_add_film.xml" value="0.25" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/fragment_explore.xml" value="0.2595108695652174" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/fragment_user_profile.xml" value="0.2595108695652174" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/search_result_item.xml" value="0.2595108695652174" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/menu/menu.xml" value="0.35260416666666666" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/menu/search_menu.xml" value="0.1" />
+        <entry key="..\:/Kotlin Projects/filmProject/app/src/main/res/xml/network_security_config.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
